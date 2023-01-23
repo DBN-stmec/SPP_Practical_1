@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/spp-nbody-omp.dir/OmpPractical.cpp.o CMakeFiles/spp-nbody-omp.dir/Body.cpp.o CMakeFiles/spp-nbody-omp.dir/Simulation.cpp.o CMakeFiles/spp-nbody-omp.dir/Config.cpp.o -o ../../bin/spp-nbody-omp  /usr/lib/gcc/x86_64-redhat-linux/8/libgomp.so /usr/lib64/libpthread.so 

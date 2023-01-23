@@ -1,0 +1,5 @@
+/home/kurse/kurs00062/je59nuni/ParallelNbody/build/CMakeFiles/rebuild_cache.dir
+/home/kurse/kurs00062/je59nuni/ParallelNbody/build/CMakeFiles/edit_cache.dir
+/home/kurse/kurs00062/je59nuni/ParallelNbody/build/src/CMakeFiles/rebuild_cache.dir
+/home/kurse/kurs00062/je59nuni/ParallelNbody/build/src/CMakeFiles/spp-nbody-omp.dir
+/home/kurse/kurs00062/je59nuni/ParallelNbody/build/src/CMakeFiles/edit_cache.dir
